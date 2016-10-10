@@ -4,7 +4,7 @@
 . ./scripts/iterm.sh --source-only
 . ./scripts/zsh.sh --source-only
 . ./scripts/git.sh --source-only
-. ./scripts/rbenv.sh --source-only
+. ./scripts/ruby.sh --source-only
 . ./scripts/xcode.sh --source-only
 . ./scripts/sublime_text.sh --source-only
 . ./scripts/gradle.sh --source-only
@@ -16,7 +16,8 @@
 setup_iterm
 setup_zsh
 setup_git
-setup_rbenv
+setup_ruby
+setup_xcode
 setup_sublime_text
 setup_gradle
 setup_dotfiles
