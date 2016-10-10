@@ -6,8 +6,14 @@ show_header()
   echo "🚀 🚀 🚀  $MESSAGE"
 }
 
+show_step()
+{
+  MESSAGE=$1
+  echo "💧 $MESSAGE"
+}
+
 show_reminder()
 {
   MESSAGE=$1
-  echo "💧💧💧  $MESSAGE"
+  echo "🍭 🍭 🍭  $MESSAGE"
 }

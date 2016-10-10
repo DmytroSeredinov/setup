@@ -5,4 +5,5 @@
 setup_rbenv()
 {
 	show_header "rbenv https://github.com/rbenv/rbenv"
+	brew install rbenv
 }
