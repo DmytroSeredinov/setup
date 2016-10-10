@@ -1,6 +1,6 @@
 #!/bin/sh
 
-. ./message.sh --source-only
+. ./scripts/message.sh --source-only
 
 setup_rbenv()
 {
