@@ -5,4 +5,5 @@
 setup_iterm()
 {
 	show_header "iTerm https://www.iterm2.com/"
+	show_step "Preferences -> Profile -> Colors"
 }
