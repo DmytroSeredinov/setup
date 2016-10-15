@@ -17,6 +17,7 @@ setup_rbenv()
 setup_ruby_gems()
 {
 	show_header "ruby_gems https://rubygems.org/pages/download"
+	show_step "Bundled with rbenv"
 }
 
 setup_ruby()
