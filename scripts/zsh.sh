@@ -6,7 +6,7 @@ setup_oh_my_zsh()
 {
 	show_header "oh-my-zsh https://github.com/robbyrussell/oh-my-zsh"
 	sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-	show_step "Install avit theme"
+	show_step "Install gentoo theme"
 }
 
 setup_zsh_autosuggestions()
