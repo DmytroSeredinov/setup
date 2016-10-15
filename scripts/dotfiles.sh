@@ -4,5 +4,5 @@
 
 setup_dotfiles()
 {
-	show_header "dotfiles"
+	show_header "dotfiles https://github.com/thoughtbot/dotfiles"
 }
