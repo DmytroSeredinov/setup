@@ -17,6 +17,7 @@ setup_zsh_autosuggestions()
 setup_z()
 {
 	show_header "z https://github.com/rupa/z"
+	show_step "Bundled with oh-my-zsh. Enable in ~/.zshrc plugins=(git bundler z)"
 }
 
 setup_zsh()
