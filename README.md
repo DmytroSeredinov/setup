@@ -10,7 +10,7 @@
 - `git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions`
 - Enable in `.zshrc`
 
-#### z
+#### z https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z
 
 - Enable in `.zshrc`
 
