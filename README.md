@@ -75,3 +75,4 @@ curl -fsSL https://raw.githubusercontent.com/onmyway133/terminal/master/themes/X
 - Sublime Text
 - Calendar 2
 - SourceTree
+- Flux https://justgetflux.com/
