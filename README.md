@@ -61,7 +61,7 @@
 In a project
 
 ```
-git config core.hooksPath ~/Users/khoa/hooks/
+git config core.hooksPath /Users/khoa/hooks
 ```
 
 # Softwares
