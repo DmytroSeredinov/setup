@@ -55,6 +55,7 @@
 # Git
 
 - http://merowing.info/2016/08/setting-up-pre-commit-hook-for-ios/
+- https://appventure.me/2016/04/04/prevent-accidental-test-code-commits/
 
 # Softwares
 
