@@ -56,15 +56,7 @@
 
 - https://github.com/onmyway133/fantastic-git#github
 
-#### Themes
-
-- Xcode
-
-```sh
-curl -fsSL https://raw.githubusercontent.com/onmyway133/terminal/master/themes/Xcode/install.sh | sh
-```
-
-#### Softwares
+# Softwares
 
 - iTerm
 - 1 Password
@@ -76,3 +68,18 @@ curl -fsSL https://raw.githubusercontent.com/onmyway133/terminal/master/themes/X
 - Calendar 2
 - SourceTree
 - Flux https://justgetflux.com/
+- Atom
+- VSCode
+
+#### Xcode
+
+- DarkSide
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/onmyway133/terminal/master/themes/Xcode/install.sh | sh
+```
+
+#### Sketch
+
+- https://github.com/onmyway133/Sketch-Action
+- https://github.com/timuric/Content-generator-sketch-plugin
