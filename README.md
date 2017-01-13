@@ -79,6 +79,9 @@
 curl -fsSL https://raw.githubusercontent.com/onmyway133/terminal/master/themes/Xcode/install.sh | sh
 ```
 
+- Reveal https://revealapp.com/
+- Injection https://github.com/johnno1962/InjectionApp
+
 #### Sketch
 
 - https://github.com/onmyway133/Sketch-Action
