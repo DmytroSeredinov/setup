@@ -39,10 +39,6 @@
 
 - https://github.com/carthage/carthage
 
-#### Simulator
-
-- https://github.com/hyperoslo/Simulator
-
 #### quicklook https://github.com/sindresorhus/quick-look-plugins
 
 - `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package`
@@ -55,6 +51,10 @@
 #### Github
 
 - https://github.com/onmyway133/fantastic-git#github
+
+# Git
+
+- http://merowing.info/2016/08/setting-up-pre-commit-hook-for-ios/
 
 # Softwares
 
@@ -83,3 +83,7 @@ curl -fsSL https://raw.githubusercontent.com/onmyway133/terminal/master/themes/X
 
 - https://github.com/onmyway133/Sketch-Action
 - https://github.com/timuric/Content-generator-sketch-plugin
+
+#### Simulator
+
+- https://github.com/hyperoslo/Simulator
