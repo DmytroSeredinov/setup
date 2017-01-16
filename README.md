@@ -79,6 +79,7 @@ git config core.hooksPath /Users/khoa/hooks
 - Flux https://justgetflux.com/
 - Atom
 - VSCode
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 
 #### Xcode
 
