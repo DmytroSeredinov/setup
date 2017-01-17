@@ -80,6 +80,7 @@ git config core.hooksPath /Users/khoa/hooks
 - Atom
 - VSCode
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
+- Asset Catalog Creator
 
 #### Xcode
 
