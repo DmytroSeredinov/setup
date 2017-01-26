@@ -51,6 +51,7 @@
 #### Github
 
 - https://github.com/onmyway133/fantastic-git#github
+- https://github.com/facebook/mention-bot
 
 # Git
 
