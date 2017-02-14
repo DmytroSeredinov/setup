@@ -69,6 +69,8 @@ git config core.hooksPath /Users/khoa/hooks
 
 # Softwares
 
+## List
+
 - iTerm
 - 1 Password
 - Chrome
@@ -84,7 +86,7 @@ git config core.hooksPath /Users/khoa/hooks
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 - Asset Catalog Creator
 
-#### Xcode
+## Xcode
 
 - DarkSide
 
@@ -95,16 +97,16 @@ curl -fsSL https://raw.githubusercontent.com/onmyway133/terminal/master/themes/X
 - Reveal https://revealapp.com/
 - Injection https://github.com/johnno1962/InjectionApp
 
-#### Sketch
+## Sketch
 
 - https://github.com/onmyway133/Sketch-Action
 - https://github.com/timuric/Content-generator-sketch-plugin
 
-#### Simulator
+## Simulator
 
 - https://github.com/hyperoslo/Simulator
 
-#### Chrome
+## Chrome
 
 - Ghostery
 - Tampermonkey
