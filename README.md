@@ -80,7 +80,7 @@ git config core.hooksPath /Users/khoa/hooks
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 - Asset Catalog Creator
 
-#### Xcode
+### Xcode
 
 - DarkSide
 
