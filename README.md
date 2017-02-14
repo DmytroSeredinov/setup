@@ -48,19 +48,6 @@
 - https://github.com/mathiasbynens/dotfiles
 - https://github.com/thoughtbot/dotfiles
 
-# Git
-
-- http://merowing.info/2016/08/setting-up-pre-commit-hook-for-ios/
-- https://appventure.me/2016/04/04/prevent-accidental-test-code-commits/
-- http://pre-commit.com/
-- Hooks
-
-In a project
-
-```
-git config core.hooksPath /Users/khoa/hooks
-```
-
 # Softwares
 
 ### List
@@ -115,3 +102,17 @@ curl -fsSL https://raw.githubusercontent.com/onmyway133/terminal/master/themes/X
 - https://github.com/onmyway133/fantastic-git#github
 - https://github.com/facebook/mention-bot
 - http://danger.systems/
+
+
+### Git
+
+- http://merowing.info/2016/08/setting-up-pre-commit-hook-for-ios/
+- https://appventure.me/2016/04/04/prevent-accidental-test-code-commits/
+- http://pre-commit.com/
+- Hooks
+
+In a project
+
+```
+git config core.hooksPath /Users/khoa/hooks
+```
