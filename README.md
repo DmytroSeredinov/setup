@@ -103,3 +103,11 @@ curl -fsSL https://raw.githubusercontent.com/onmyway133/terminal/master/themes/X
 #### Simulator
 
 - https://github.com/hyperoslo/Simulator
+
+#### Chrome
+
+- Ghostery
+- Tampermonkey
+- Adblock
+- Personal Blocklist
+- Share on Twitter
