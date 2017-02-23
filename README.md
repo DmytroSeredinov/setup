@@ -120,3 +120,13 @@ git config core.hooksPath /Users/khoa/hooks
 ### gpg2
 
 - https://help.github.com/articles/generating-a-new-gpg-key/
+
+```
+brew install gpg2
+git config --global gpg.program gpg2
+echo "test" | gpg2 --clearsign
+gpg2 --gen-key
+gpg2 --list-secret-keys --keyid-format LONG
+gpg2 --armor --export FF3FD343C85BFA6E // add to GitHub
+git config --global user.signingkey FF3FD343C85BFA
+```
