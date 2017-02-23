@@ -127,9 +127,9 @@ brew install gpg2
 git config --global gpg.program gpg2
 echo "test" | gpg2 --clearsign
 gpg2 --gen-key
-gpg2 --list-secret-keys --keyid-format LONG
-gpg2 --armor --export FF3FD343C85BFA6E // add to GitHub
-git config --global user.signingkey FF3FD343C85BFA
+gpg2 --list-secret-keys | grep ^sec
+gpg2 --armor --export C85BFA6F // add to GitHub
+git config --global user.signingkey C85BFA6F
 ```
 
 Don't need gpg2
