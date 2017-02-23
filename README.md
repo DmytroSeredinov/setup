@@ -124,6 +124,7 @@ git config core.hooksPath /Users/khoa/hooks
 
 ```
 brew install gpg2
+brew install pinentry-mac
 git config --global gpg.program gpg2
 echo "test" | gpg2 --clearsign
 gpg2 --gen-key
