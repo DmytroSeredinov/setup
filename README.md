@@ -131,3 +131,9 @@ gpg2 --list-secret-keys --keyid-format LONG
 gpg2 --armor --export FF3FD343C85BFA6E // add to GitHub
 git config --global user.signingkey FF3FD343C85BFA
 ```
+
+Don't need gpg2
+
+```
+git config --global commit.gpgsign false
+```
