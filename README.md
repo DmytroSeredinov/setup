@@ -120,6 +120,7 @@ git config core.hooksPath /Users/khoa/hooks
 ### gpg2
 
 - https://help.github.com/articles/generating-a-new-gpg-key/
+- https://git-scm.com/book/tr/v2/Git-Tools-Signing-Your-Work
 
 ```
 brew install gpg2
