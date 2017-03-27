@@ -69,6 +69,7 @@
 - VSCode
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 - Asset Catalog Creator
+- Spectable https://www.spectacleapp.com/
 
 ### Xcode
 
