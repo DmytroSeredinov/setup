@@ -1,4 +1,4 @@
-# terminal
+# setup
 
 ### cocoapods
 
