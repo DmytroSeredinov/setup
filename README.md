@@ -12,14 +12,23 @@
 
 - https://github.com/carthage/carthage
 
-### oh-my-zsh https://github.com/robbyrussell/oh-my-zsh
+### oh-my-zsh 
 
-- `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+- https://github.com/robbyrussell/oh-my-zsh
+
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+
 - Install `afowler` theme
 
-### zsh-autosuggestions https://github.com/zsh-users/zsh-autosuggestions
+### zsh-autosuggestions 
 
-- `git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions`
+- https://github.com/zsh-users/zsh-autosuggestions
+```
+git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+```
+
 - Enable in `.zshrc`
 
 ### z https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z
@@ -30,13 +39,18 @@
 
 - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-### rbenv https://github.com/rbenv/rbenv
+### rbenv 
 
-- `brew install rbenv`
-- `rbenv install 2.3.1`
-- `rbenv global 2.3.1`
-- `rbenv rehash`
-- `echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc`
+- https://github.com/rbenv/rbenv
+
+```
+brew install rbenv
+rbenv install 2.3.1
+rbenv global 2.3.1
+rbenv rehash
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+```
+
 - Put `eval "$(rbenv init -)"` at bottom of `zshrc`
 
 ### quicklook
