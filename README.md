@@ -52,7 +52,14 @@
 - https://github.com/mathiasbynens/dotfiles
 - https://github.com/thoughtbot/dotfiles
 
-### nvm https://github.com/creationix/nvm
+### nvm 
+- https://github.com/creationix/nvm
+
+```sh
+nvm install --lts
+nvm use --lts
+node -v
+```
 
 ### Softwares
 
