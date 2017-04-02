@@ -2,11 +2,15 @@
 
 ### cocoapods
 
-- `gem install cocoapods`
+```
+gem install cocoapods
+```
 
 ### fastlane
 
-- `gem install fastlane`
+```
+gem install fastlane
+```
 
 ### carthage
 
@@ -31,13 +35,17 @@ git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh
 
 - Enable in `.zshrc`
 
-### z https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z
+### z 
 
+- https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z
 - Enable in `.zshrc`
 
-### brew http://brew.sh/
+### brew 
 
-- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- http://brew.sh/
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 ### rbenv 
 
