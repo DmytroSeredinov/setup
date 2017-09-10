@@ -71,6 +71,9 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 ### [Visual Studio Code](https://github.com/Microsoft/vscode)
 - I use this to make web apps. It has good autocompletion
 
+### [vmd](https://github.com/yoshuawuyts/vmd)
+- I like markdown. This simulates markdown preview that is closest to GitHub.
+
 ### [Xcode](https://developer.apple.com/xcode/)
 - To develop iOS and macOS app.
 - My extensions
