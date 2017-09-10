@@ -33,6 +33,9 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 ### [GifCapture](https://github.com/onmyway133/GifCapture)
 - Use this to capture gif. There are [kap](https://github.com/wulkano/kap) and [GIF Brewery](http://gifbrewery.com/) that are good too.
 
+### [Gitify](https://github.com/manosim/gitify)
+- I want real time GitHub notifications so that I can see my friends' Pull requests as soon as possible.
+
 ### [IconGenerator](https://github.com/onmyway133/IconGenerator)
 - Use this to generate app icons
 
