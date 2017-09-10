@@ -45,6 +45,9 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 ### [iTerm](https://www.iterm2.com/)
 - Prefer this over `Terminal`. I also use [Hyper](https://github.com/zeit/hyper) for its good customisation.
 
+### [Monosnap](https://monosnap.com)
+- This allows me to take whole screenshot, or just 1 application. It also has arrow annotation tools.
+
 ### [PushNotifications](https://github.com/onmyway133/PushNotifications)
 - Use this to test push notifications
 
