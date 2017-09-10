@@ -1,5 +1,37 @@
 # setup
 
+## Apps
+
+### [Android Studio](https://developer.android.com/studio/index.html)
+- Use this to develop Android apps
+
+### [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- I prefer Chrome over all other browsers. It eats up a lot of memory and CPUs, but it's fast.
+
+### [iTerm](https://www.iterm2.com/)
+- Prefer this over `Terminal`. I also use [Hyper](https://github.com/zeit/hyper) for its good customisation.
+
+### [Sketch](https://www.sketchapp.com/)
+- To export assets given from designer
+
+### [SourceTree](https://www.sourcetreeapp.com/)
+- I use terminal to submit git commands. But when browsing git commits, a GUI is better
+
+### [Spotify](https://www.spotify.com/no/)
+- I like `Hits Hits Hits` playlist. I also use [Lyrics](https://github.com/onmyway133/Lyrics) to show lyrics.
+
+### [Sublime Text](https://www.sublimetext.com/)
+- This is very fast. Use it to copy temporary code.
+
+### [Visual Studio Code](https://github.com/Microsoft/vscode)
+- I use this to make web apps. It has good autocompletion
+
+### [Xcode](https://developer.apple.com/xcode/)
+- To develop iOS and macOS app.
+
+
+## Terminal
+
 ### cocoapods
 
 ```
