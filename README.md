@@ -27,6 +27,9 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 ### [Evernote](https://evernote.com/)
 - I make notes a lot. For public notes, I upload it on [GitHub notes](https://github.com/onmyway133/notes)
 
+### [FinderGo](https://github.com/onmyway133/FinderGo)
+- I need to open Terminal from Finder alot.
+
 ### [f.lux](https://justgetflux.com/)
 - To ease my eyes.
 
