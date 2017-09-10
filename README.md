@@ -91,6 +91,8 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 - My extensions
   - [XcodeColorSense2](https://github.com/onmyway133/XcodeColorSense2) Show info about a hex color
   - [XcodeWay](https://github.com/onmyway133/XcodeWay) Go to many other places from current Xcode project
+- My theme
+  - [DarkSide](https://github.com/onmyway133/DarkSide) I like dark mode
 
 ### [Xmind](http://www.xmind.net/)
 - Use this to make mindmap. This has few features, but it works for me.
@@ -102,3 +104,12 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 - My plugins
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) Suggest commands based on history
   - [z](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z) Quicly go to previous places
+
+### [rbenv](https://github.com/rbenv/rbenv)
+- Use this to manage my Ruby version
+
+### [nvm](https://github.com/creationix/nvm)
+- Use this to manage my Node version
+
+### [yarn](https://yarnpkg.com/en/)
+- Use this to install node packages
