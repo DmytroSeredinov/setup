@@ -99,6 +99,12 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 
 ## Terminal
 
+### [brew](https://brew.sh/index_no.html)
+- Use this to install macOS tools.
+
+### [nvm](https://github.com/creationix/nvm)
+- Use this to manage my Node version
+
 ### [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - I switched from `fish` to `zsh` long time ago because of some incompatible commands.
 - My plugins
@@ -107,9 +113,6 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 
 ### [rbenv](https://github.com/rbenv/rbenv)
 - Use this to manage my Ruby version
-
-### [nvm](https://github.com/creationix/nvm)
-- Use this to manage my Node version
 
 ### [yarn](https://yarnpkg.com/en/)
 - Use this to install node packages
