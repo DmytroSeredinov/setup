@@ -2,20 +2,65 @@
 
 ## Apps
 
+I prefer web apps unless the native apps are really well done. I also prefer open source apps.
+
+### [1Password](https://1password.com/)
+- I prefer strong passwords, and I don't want to remember.
+
 ### [Android Studio](https://developer.android.com/studio/index.html)
 - Use this to develop Android apps
 
+### [Background Music](https://github.com/kyleneideck/BackgroundMusic)
+- This app allows me to toggle music for certain app
+
+### [Calendar](https://itunes.apple.com/us/app/calendar-2/id415181149?mt=12)
+- I use this to quickly see calendar and events. I will switch to an open source solution soon ⚠️
+
 ### [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
-- I prefer Chrome over all other browsers. It eats up a lot of memory and CPUs, but it's fast.
+- I prefer Chrome over all other browsers. It eats up a lot of memory and CPUs, but it's fast. I prefer web versions for most scenarios.
+- My extensions
+  - [github-extended](https://github.com/onmyway133/github-extended) Allows me to browser more repos
+  - [github-chat](https://github.com/onmyway133/github-chat) A chat box within GitHub
+  - [octotree](https://github.com/buunguyen/octotree) Help navigating files
+  - [github-repo-size](https://github.com/harshjv/github-repo-size) Show file sizes
+
+### [Evernote](https://evernote.com/)
+- I make notes a lot. For public notes, I upload it on [GitHub notes](https://github.com/onmyway133/notes)
+
+### [f.lux](https://justgetflux.com/)
+- To ease my eyes.
+
+### [GifCapture](https://github.com/onmyway133/GifCapture)
+- Use this to capture gif. There are [kap](https://github.com/wulkano/kap) and [GIF Brewery](http://gifbrewery.com/) that are good too.
+
+### [IconGenerator](https://github.com/onmyway133/IconGenerator)
+- Use this to generate app icons
+
+### [Insomnia](https://github.com/getinsomnia/insomnia)
+- This helps making REST requests. There is [Postman](https://www.getpostman.com/) that is good too.
 
 ### [iTerm](https://www.iterm2.com/)
 - Prefer this over `Terminal`. I also use [Hyper](https://github.com/zeit/hyper) for its good customisation.
 
+### [PushNotifications](https://github.com/onmyway133/PushNotifications)
+- Use this to test push notifications
+
+### [Sip](https://sipapp.io/)
+- Use this to pick color. Will switch to an open source solution ⚠️
+
 ### [Sketch](https://www.sketchapp.com/)
 - To export assets given from designer
+- My plugins
+  - [Sketch-Action](https://github.com/onmyway133/Sketch-Action) Quickly trigger actions
+
+### [Slack](https://slack.com/)
+- People always complain about `electron.js`, but I have never got any problem with Slack. Use this for office communication and other development groups. Here are the [groups](https://github.com/onmyway133/fantastic-engineering/blob/master/README.md#groups) I like.
 
 ### [SourceTree](https://www.sourcetreeapp.com/)
-- I use terminal to submit git commands. But when browsing git commits, a GUI is better
+- I use terminal to submit [git commands](https://github.com/onmyway133/fantastic-git). But when browsing git commits, a GUI is better
+
+### [Spectacle](https://github.com/eczarny/spectacle)
+- I use 2nd monitor a lot. This helps me organise windows.
 
 ### [Spotify](https://www.spotify.com/no/)
 - I like `Hits Hits Hits` playlist. I also use [Lyrics](https://github.com/onmyway133/Lyrics) to show lyrics.
@@ -28,176 +73,17 @@
 
 ### [Xcode](https://developer.apple.com/xcode/)
 - To develop iOS and macOS app.
+- My extensions
+  - [XcodeColorSense2](https://github.com/onmyway133/XcodeColorSense2) Show info about a hex color
+  - [XcodeWay](https://github.com/onmyway133/XcodeWay) Go to many other places from current Xcode project
 
+### [Xmind](http://www.xmind.net/)
+- Use this to make mindmap. This has few features, but it works for me.
 
 ## Terminal
 
-### cocoapods
-
-```
-gem install cocoapods
-```
-
-### fastlane
-
-```
-gem install fastlane
-```
-
-### carthage
-
-- https://github.com/carthage/carthage
-
-### oh-my-zsh 
-
-- https://github.com/robbyrussell/oh-my-zsh
-
-```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-
-- Install `afowler` theme
-
-### zsh-autosuggestions 
-
-- https://github.com/zsh-users/zsh-autosuggestions
-```
-git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
-```
-
-- Enable in `.zshrc`
-
-### z 
-
-- https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z
-- Enable in `.zshrc`
-
-### brew 
-
-- http://brew.sh/
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-
-### rbenv 
-
-- https://github.com/rbenv/rbenv
-
-```
-brew install rbenv
-rbenv install 2.3.1
-rbenv global 2.3.1
-rbenv rehash
-echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
-```
-
-- Put `eval "$(rbenv init -)"` at bottom of `zshrc`
-
-### quicklook
-
-- https://github.com/sindresorhus/quick-look-plugins
-
-`brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package`
-
-- https://github.com/lexrus/QLSwift
-
-### dotfiles
-
-- https://github.com/mathiasbynens/dotfiles
-- https://github.com/thoughtbot/dotfiles
-
-### nvm 
-- https://github.com/creationix/nvm
-
-```sh
-nvm install --lts
-nvm use --lts
-node -v
-```
-
-### Softwares
-
-- Hyper
-- 1 Password
-- Chrome
-- Slack
-- Evernote
-- Monosnap
-- Sublime Text
-- Calendar 2
-- SourceTree
-- Flux https://justgetflux.com/
-- VSCode
-- [Background Music](https://github.com/kyleneideck/BackgroundMusic)
-- Asset Catalog Creator
-- Spectable https://www.spectacleapp.com/
-
-### Xcode
-
-- DarkSide
-
-```sh
-curl -fsSL https://raw.githubusercontent.com/onmyway133/terminal/master/themes/Xcode/install.sh | sh
-```
-
-- Reveal https://revealapp.com/
-- Injection https://github.com/johnno1962/InjectionApp
-
-### Sketch
-
-- https://github.com/onmyway133/Sketch-Action
-- https://github.com/timuric/Content-generator-sketch-plugin
-
-### Simulator
-
-- https://github.com/hyperoslo/Simulator
-
-### Chrome Extensions
-
-- Ghostery
-- Tampermonkey
-- Adblock
-- Personal Blocklist
-- Share on Twitter
-
-### Github
-
-- https://github.com/onmyway133/fantastic-git#github
-- https://github.com/facebook/mention-bot
-- http://danger.systems/
-
-
-### Git
-
-- http://merowing.info/2016/08/setting-up-pre-commit-hook-for-ios/
-- https://appventure.me/2016/04/04/prevent-accidental-test-code-commits/
-- http://pre-commit.com/
-- Hooks
-
-### Commit Hooks
-
-```
-git config core.hooksPath /Users/khoa/hooks
-```
-
-### gpg2
-
-- https://help.github.com/articles/generating-a-new-gpg-key/
-- https://git-scm.com/book/tr/v2/Git-Tools-Signing-Your-Work
-
-```
-brew install gpg2
-brew install pinentry-mac
-git config --global gpg.program gpg2
-echo "test" | gpg2 --clearsign
-gpg2 --gen-key
-gpg2 --list-secret-keys | grep ^sec
-gpg2 --armor --export C85BFA6F // add to GitHub
-git config --global user.signingkey C85BFA6F
-```
-
-Don't need gpg2
-
-```
-git config --global commit.gpgsign false
-```
+### [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- I switched from `fish` to `zsh` long time ago because of some incompatible commands.
+- My plugins
+  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) Suggest commands based on history
+  - [z](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z) Quicly go to previous places
