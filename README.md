@@ -13,9 +13,6 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 ### [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 - This app allows me to toggle music for certain app
 
-### [Calendar](https://itunes.apple.com/us/app/calendar-2/id415181149?mt=12)
-- I use this to quickly see calendar and events. I will switch to an open source solution soon ⚠️
-
 ### [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - I prefer Chrome over all other browsers. It eats up a lot of memory and CPUs, but it's fast. I prefer web versions for most scenarios.
 - My extensions
@@ -50,6 +47,9 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 
 ### [iTerm](https://www.iterm2.com/)
 - Prefer this over `Terminal`. I also use [Hyper](https://github.com/zeit/hyper) for its good customisation.
+
+### [Itsycal](https://github.com/sfsam/itsycal)
+- This shows calendar in menu bar, along with events
 
 ### [Monosnap](https://monosnap.com)
 - This allows me to take whole screenshot, or just 1 application. It also has arrow annotation tools.
