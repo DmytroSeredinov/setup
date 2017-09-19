@@ -24,6 +24,9 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
   - [Hacker News Enhancement Suite](https://chrome.google.com/webstore/detail/hacker-news-enhancement-s/bappiabcodbpphnojdiaddhnilfnjmpm) To make Hacker News look a bit nicer
   - [Personal Blocklist ](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef) to block websites I don't want, especially those that mimic Stackoverflow.
 
+### [Clipy](https://github.com/Clipy/Clipy)
+- Help me manage my clipboard
+
 ### [Evernote](https://evernote.com/)
 - I make notes a lot. For public notes, I upload it on [GitHub notes](https://github.com/onmyway133/notes)
 
