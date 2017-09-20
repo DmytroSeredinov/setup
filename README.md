@@ -23,6 +23,7 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
   - [Share on Twitter](https://chrome.google.com/webstore/detail/share-on-twitter/gkjgmeeoldebbdoehhngapnlfmdbmiie) Easily share things on Twitter
   - [Hacker News Enhancement Suite](https://chrome.google.com/webstore/detail/hacker-news-enhancement-s/bappiabcodbpphnojdiaddhnilfnjmpm) To make Hacker News look a bit nicer
   - [Personal Blocklist ](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef) to block websites I don't want, especially those that mimic Stackoverflow.
+  - [Scroll To Top](https://chrome.google.com/webstore/detail/scroll-to-top/hegiignepmecppikdlbohnnbfjdoaghj) Scroll to the top
 
 ### [Clipy](https://github.com/Clipy/Clipy)
 - Help me manage my clipboard
