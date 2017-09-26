@@ -84,6 +84,9 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 ### [Sublime Text](https://www.sublimetext.com/)
 - This is very fast. Use it to copy temporary code.
 
+### [TunnelBear](https://www.tunnelbear.com/)
+- Easy to use VPN solution
+
 ### [Visual Studio Code](https://github.com/Microsoft/vscode)
 - I use this to make web apps. It has good autocompletion
 
