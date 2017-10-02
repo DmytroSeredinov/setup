@@ -28,6 +28,9 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 ### [Clipy](https://github.com/Clipy/Clipy)
 - Help me manage my clipboard
 
+### [Deckset](https://www.decksetapp.com/)
+- Help me make presentation with markdown easily
+
 ### [Evernote](https://evernote.com/)
 - I make notes a lot. For public notes, I upload it on [GitHub notes](https://github.com/onmyway133/notes)
 
