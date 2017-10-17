@@ -115,8 +115,8 @@ I prefer web apps unless the native apps are really well done. I also prefer ope
 ### [brew](https://brew.sh/index_no.html)
 - Use this to install macOS tools.
 
-### [nvm](https://github.com/creationix/nvm)
-- Use this to manage my Node version
+### [nodenv](https://github.com/nodenv/nodenv)
+- Manage multiple NodeJS versions.
 
 ### [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - I switched from `fish` to `zsh` long time ago because of some incompatible commands.
